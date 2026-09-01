@@ -1,0 +1,6 @@
+{
+  "name": "لوحة التحكم الإدارية",
+  "description": "لوحة تحكم إدارية حديثة وشاملة لإدارة المقالات والمستخدمين والإحصائيات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
